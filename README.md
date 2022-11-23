@@ -23,4 +23,4 @@ THEN I exit the application, and the HTML is generated
 ```
 ***[Video Walkthrough] https://drive.google.com/file/d/1z8WHXgtF3VitJRUo2PARihKjtvsPDNhm/view?usp=sharing***
 
-***[Repository link] https://github.com/hlampton/teamBuilder-main ***
+***[Repository link] https://github.com/hlampton/teamBuilder-main***
